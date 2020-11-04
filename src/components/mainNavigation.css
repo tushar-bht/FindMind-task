@@ -1,0 +1,30 @@
+.nav-bar {
+  background-color: rgb(28, 67, 126);
+}
+
+.nav-content {
+  padding: 15px 20px 0 0px;
+  margin: 0 30px;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+
+.nav-brand {
+  align-items: center;
+}
+
+.brand-name {
+  color: white;
+  font-weight: 600;
+}
+
+.nav-logo {
+  width: 80px;
+  height: 80px;
+}
+
+.profile-pic {
+  width: 65px;
+  height: 65px;
+  object-fit: cover;
+}

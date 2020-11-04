@@ -1,0 +1,24 @@
+.task-card {
+  margin: 20px;
+  border: 2px solid rgb(28, 67, 126);
+  border-radius: 0px;
+}
+
+.add-task {
+  align-items: center;
+}
+
+.add-task input {
+  border: none;
+  outline: none;
+}
+.list {
+  list-style-type: none;
+}
+.completed-tasks {
+  color: green;
+}
+
+.list-items {
+  margin: 10px 0;
+}

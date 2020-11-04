@@ -1,0 +1,39 @@
+.form-control label {
+  margin: 5px 0;
+}
+.form-control input {
+  border: 1px solid rgb(184, 184, 184);
+  outline-color: rgb(152, 151, 151);
+}
+.form-control--invalid {
+  color: rgb(98, 85, 85);
+}
+
+.login-legend {
+  color: white;
+  text-align: center;
+  width: 130px;
+}
+
+.my-fieldset {
+  border: 2px solid white;
+}
+
+.input {
+  margin: 0 10px 15px 15px;
+  max-width: 90%;
+  padding: 0px;
+  border-radius: 0px;
+  background: transparent;
+  color: white;
+  border: none;
+
+  font-size: x-large;
+}
+.input:focus {
+  background: transparent;
+  outline: none;
+  color: white;
+
+  box-shadow: none;
+}
